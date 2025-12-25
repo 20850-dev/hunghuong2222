@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-const BOT_TOKEN = '7671148552:AAH2o1Be50-P4OlhRv8y_QsmUcnEyEpHOXc';
-const CHAT_ID = '-3142534544';
+const BOT_TOKEN = '8517168705:AAGb1lZ9IwTTE-AesDUONH5eRS0hB5rIPGU';
+const CHAT_ID = '-6047480837';
 
 const POST = async (request: NextRequest): Promise<NextResponse> => {
     try {
